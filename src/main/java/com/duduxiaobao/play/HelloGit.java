@@ -1,7 +1,7 @@
 package com.duduxiaobao.play;
 
-public class HelloWorld {
+public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("hello wrold");
+        System.out.println("hello Git");
     }
 }
